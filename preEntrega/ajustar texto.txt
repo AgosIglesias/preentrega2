@@ -1,0 +1,1 @@
+En la pestaña Inicio, en el grupo Alineación, haga clic en Ajustar texto. (En Excel para escritorio, también puede seleccionar la celda y, después, presionar Alt + H + W).

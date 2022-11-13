@@ -1,0 +1,26 @@
+Hola Agostina, como estas? soy Geronimo y me asignaron como tu tutor corrector! Estuve revisando tu trabajo y esta excelente. Vamos por partes:
+
+El wireframe esta muy bien diseñado, te luciste con eso y va a quedar genial la pagina. Encima pusiste la paleta de colores, esta bueno tener eso definido ahora.
+Los html están bien estructurados y semánticamente bien ordenados ya que usaste las etiquetas de header, main, footer, etc. También esta bien lineado con el css y en la navegación linkeaste de manera correcta los otros html.
+El css esta muy bien ordenado pero te recomiendo que realices comentarios para tener una mejor organización, eso te re sirve para mas adelante cuando tengas mas de 100 lineas de código. El diseño de la pagina esta muy bien, utilizaste todo lo visto en clase y con una muy buena paleta de colores.
+Te dejo material complementario para que amplíes tu conocimiento:
+
+WEB DE REFERENCIA
+
+https://www.awwwards.com/websites/minimal/
+
+https://w3layouts.com/
+
+https://dribbble.com/shots/popular/web-design
+
+https://onepagelove.com/inspiration
+
+https://www.pinterest.com/
+
+https://www.behance.net/
+
+https://melonblanc.com/
+
+https://creativemarket.com/free-goods
+
+https://www.behance.net/gallery/96275519/Nimbus-CV-Portfolio-WordPress-Theme?tracking_source=search_projects_recommended|DISEÑO WEB PORTFOLIO
